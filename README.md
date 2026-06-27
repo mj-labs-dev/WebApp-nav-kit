@@ -42,3 +42,13 @@ Edit `src/navConfig.ts` to add your navigation items.
 ## Dependencies
 
 React 18+, React Router 7+, Lucide React, Tailwind CSS 3+
+
+## License
+
+MIT License — See [LICENSE](./LICENSE) file for details.
+
+---
+
+Built with ❤️ for resort experiences by [MJ Labs Dev](https://mj-labs.dev)
+
+**Support**: [hello@mj-labs.dev](mailto:hello@mj-labs.dev)
